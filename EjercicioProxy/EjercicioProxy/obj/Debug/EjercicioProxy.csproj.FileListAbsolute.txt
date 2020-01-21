@@ -1,0 +1,7 @@
+C:\Users\carlos.can\source\repos\EjercicioProxy\EjercicioProxy\bin\Debug\EjercicioProxy.exe.config
+C:\Users\carlos.can\source\repos\EjercicioProxy\EjercicioProxy\bin\Debug\EjercicioProxy.exe
+C:\Users\carlos.can\source\repos\EjercicioProxy\EjercicioProxy\bin\Debug\EjercicioProxy.pdb
+C:\Users\carlos.can\source\repos\EjercicioProxy\EjercicioProxy\obj\Debug\EjercicioProxy.csprojAssemblyReference.cache
+C:\Users\carlos.can\source\repos\EjercicioProxy\EjercicioProxy\obj\Debug\EjercicioProxy.csproj.CoreCompileInputs.cache
+C:\Users\carlos.can\source\repos\EjercicioProxy\EjercicioProxy\obj\Debug\EjercicioProxy.exe
+C:\Users\carlos.can\source\repos\EjercicioProxy\EjercicioProxy\obj\Debug\EjercicioProxy.pdb
